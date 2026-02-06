@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "嬢王",
+  "base_artist": "八王子P",
+  "createdAt": "2026-02-06T06:49:14.149706Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "嬢王",
+      "artist": "八王子P",
+      "has_synced": false,
+      "path": "select/pl_01_嬢王_八王子P.txt"
+    }
+  ]
+}
